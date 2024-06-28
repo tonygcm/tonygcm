@@ -12,8 +12,12 @@ I am Guilherme Coelho 😁. I am from Curitiba/PR, Brazil, and currently graduat
 
 ##
 
-![Tonygcm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tonygcm&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonygcm&layout=compact&theme=dark)
+<a href="https://github.com/tonygcm/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tonygcm&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/tonygcm/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonygcm&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
 
 ##
 
