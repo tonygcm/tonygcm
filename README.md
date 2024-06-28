@@ -3,6 +3,7 @@
 
 I am Guilherme Coelho 😁. I am from Curitiba/PR, Brazil, and currently graduating in Systems Analysis and Development at Positivo University. I love gaming and learn about new things.
 
+### My Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -10,7 +11,7 @@ I am Guilherme Coelho 😁. I am from Curitiba/PR, Brazil, and currently graduat
   <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-##
+### Github Stats
 
 <a href="https://github.com/tonygcm/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=tonygcm&show_icons=true&theme=dark" />
