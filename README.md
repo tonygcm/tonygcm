@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<<<<<<< HEAD
+[![Tonygcm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tonygcm)](https://github.com/Tonygcm/github-readme-stats)
+=======
 
 ![Tonygcm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tonygcm&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonygcm&layout=compact&theme=dark)
+
+>>>>>>> 9f6076f075d3ba76bb755c691ae6be06d903b7a8
