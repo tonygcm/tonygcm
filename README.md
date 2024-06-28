@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 ![Tonygcm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tonygcm&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonygcm)](https://github.com/Tonygcm/github-readme-stats)
