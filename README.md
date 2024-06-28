@@ -12,15 +12,14 @@ I am Guilherme Coelho 😁. I am from Curitiba/PR, Brazil, and currently graduat
 
 ##
 
+![Tonygcm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tonygcm&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonygcm&layout=compact&theme=dark)
+
+##
+
 <div> 
  <a href="https://www.linkedin.com/in/guilherme-coelho-mendes-1b943314b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href = "mailto:guilherme.coelhomendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-##
-
-![Tonygcm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tonygcm&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonygcm&layout=compact&theme=dark)
-
-##
 
